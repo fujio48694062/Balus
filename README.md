@@ -3,7 +3,6 @@
 ![バルス](https://user-images.githubusercontent.com/84171334/188863109-6acdab8c-b20c-4783-a5c0-e54c416c8398.jpg)
 
 このソースコードは、「わちょんのゆっくりIT」様の[【初心者向け】バルスで学ぶVBAの基礎](https://www.youtube.com/watch?v=MoeeGu4VIgA)という動画を参考に作成させていただいたものです。
-[![【初心者向け】バルスで学ぶVBAの基礎](https://user-images.githubusercontent.com/84171334/188865321-c7234eaa-296d-45f6-84a3-6a9dbecb450d.jpg)](https://www.youtube.com/watch?v=MoeeGu4VIgA)
 
 ## 実行内容
 - ムスカ大佐の質問・反応
